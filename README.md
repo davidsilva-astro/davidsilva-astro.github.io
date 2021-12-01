@@ -2,7 +2,7 @@
 **Dean, College of Sciences**  
 **The University of Texas at San Antonio**
 
-[Cygnus Loop](/assets/img/cygnus_loop.jpg)
+![Cygnus Veil](/assets/img/noao-veil-wiyn-0-9-m.jpg)
 
 [davidr.silva@utsa.edu](mailto:davidr.silva@utsa.edu)
 
