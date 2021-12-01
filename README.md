@@ -2,7 +2,7 @@
 **Dean, College of Sciences**  
 **The University of Texas at San Antonio**
 
-<img src="/assets/img/veil_1000.jpg" alt="drawing" height=50% width=50% >
+<img src="/assets/img/veil-1000.jpg" alt="drawing" height=50% width=50% >
 
 
 ***
