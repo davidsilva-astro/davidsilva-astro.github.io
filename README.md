@@ -1,10 +1,15 @@
 **Distinguished Professor, Physics & Astronomy**  
 **Dean, College of Sciences**  
-**The University of Texas at San Antonio**  
+**The University of Texas at San Antonio**
+
+[Cygnus Loop](/assets/img/cygnus_loop.jpg)
+
+[davidr.silva@utsa.edu](mailto:davidr.silva@utsa.edu)
 
 
 
-
+***
+Updated: 30 November 2021
 
 <!---
 
