@@ -1,5 +1,9 @@
-# THIS IS A WORK IN PROGRESS
-***
+**Distinguished Professor, Physics & Astronomy**
+**Dean, College of Sciences**
+**The University of Texas at San Antonio***
+
+
+
 
 
 <!---
