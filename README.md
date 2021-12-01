@@ -2,8 +2,7 @@
 **Dean, College of Sciences**  
 **The University of Texas at San Antonio**
 
-<img src=/assets/img/veil-1000.jpg alt="drawing"  />
-
+![Cygnus Veil](/assets/img/veil-1000.jpg)
 
 ***
 Updated: 30 November 2021 | [davidr.silva@utsa.edu](mailto:davidr.silva@utsa.edu)
