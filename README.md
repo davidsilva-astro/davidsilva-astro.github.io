@@ -1,6 +1,6 @@
-**Distinguished Professor, Physics & Astronomy**
-**Dean, College of Sciences**
-**The University of Texas at San Antonio***
+**Distinguished Professor, Physics & Astronomy**  
+**Dean, College of Sciences**  
+**The University of Texas at San Antonio**  
 
 
 
