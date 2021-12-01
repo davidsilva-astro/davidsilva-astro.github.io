@@ -9,13 +9,26 @@ Updated: 30 November 2021 | [davidr.silva@utsa.edu](mailto:davidr.silva@utsa.edu
 
 <!---
 
+FRONT PAGE
+* Link to CV
+* Link to social media (LinkedIn, Twitter)
+* Navbar
+
 TODO, One pager
 * Link to CV
 *
 * About (page?)
-* Research interests (page?)
-* Technical Interests (page?)
+
+RESEARCH (page?)
+* Links: Google Scholar, ADS
+* Topics
+* Key paers
+
+SERVICE (page?)
+* Career
+* Boards, committees, etc.
+
+ACTIVITES (page?)
 * Activities (page?)
-* Social media (LinkedIn, Twitter)
 
 -->
