@@ -1,3 +1,6 @@
+/* Import Lato font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
 /* General styles */
 body {
     font-family: 'Lato', sans-serif;
@@ -5,7 +8,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0 20px;
-    max-width: 1200px;
+    max-width: 750px;
     margin: 0 auto;
     background-color: #f4f4f4;
     color: #333; /* This sets a dark gray color for your text */
@@ -14,7 +17,7 @@ body {
 /* Container for responsive layout */
 .container {
     width: 90%; /* Reduce from 100% to create space on both sides */
-    max-width: 1200px; /* Keep this if you had it before */
+    max-width: 750px; /* Keep this if you had it before */
     margin: 0 auto;
     padding: 0 20px 0 0; /* Add 20px padding to the right */
 }
@@ -160,7 +163,7 @@ p {
 }
 
 .headshot img {
-    max-width: 65%;
+    max-width: 80%;
     height: auto;
 }
 
@@ -204,14 +207,19 @@ p {
 
 .two-column-about {
     display: flex;
-    align-items: flex-start;
+    align-items: left;   
     margin-top: 1em;
-    gap: 2em; /* Creates space between columns */
+    gap: 2em; /* Creates space between columns     */
     padding-right: 40px; /* Add extra padding to the right */
 }
 
 .two-column-about .column {
+	vertical-align: top;
     flex: 1;
+}
+
+.two-column-about .image {
+    height: auto;
 }
 
 .two-column-about .image img {
@@ -219,8 +227,15 @@ p {
     height: auto;
 }
 
-.two-column-about .narrative p {
+.two-column-about .narrative {
     margin-bottom: 1em;
+}
+
+/* removed margin and padding to better align with image */ 
+.two-column-about .narrative p {
+	margin: 0;
+	padding: 0;
+
 }
 
 .two-column-about .narrative p.emphasis {
@@ -243,6 +258,7 @@ p {
         margin-bottom: 1em;
     }
 }
+
 
 /* Styles for "career" page */
 /* Add these new styles to your existing CSS file */
