@@ -164,6 +164,10 @@ p {
 
 .headshot img {
     max-width: 80%;
+    background-color: #e6f3ff;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    margin-top: 25px;
     height: auto;
 }
 
@@ -224,6 +228,8 @@ p {
 
 .two-column-about .image img {
     max-width: 100%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 2px;
     height: auto;
 }
 
